@@ -37,7 +37,7 @@ Check out the live demo [here](https://skylens.netlify.app/).
 - **JavaScript**: For weather data fetching, search functionality, and UI interaction.
 - **OpenWeather API**: For fetching real-time weather data.
 
-## 💻 How to Use
+## 💻 How to Use -
 
 1. **Visit the Website**: [SkyLens](https://skylens.netlify.app/)
 2. **Enter a City Name**: Type the name of the city in the search bar.
